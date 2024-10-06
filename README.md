@@ -16,5 +16,5 @@ please fork the repo and create pull request with your changes
 ## License
 the project is licensed under MIT license.
         
-screenshot: ./screenshot/Untitled Video October 6, 2024 12_22 PM.gif
-screenshot\Untitled Video October 6, 2024 12_22 PM.gif
+
+![Untitled Video October 6, 2024 12_22 PM](https://github.com/user-attachments/assets/b83141f8-30b6-4f3e-9df8-30b9c21b6bfd)
