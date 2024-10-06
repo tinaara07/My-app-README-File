@@ -17,4 +17,4 @@ please fork the repo and create pull request with your changes
 the project is licensed under MIT license.
         
 
-C:\Users\18323\My-app-README-File\screenshot\Untitled Video October 6, 2024 12_22 PM.gif
+.\screenshot\Untitled Video October 6, 2024 12_22 PM.gif
